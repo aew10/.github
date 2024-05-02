@@ -25,6 +25,7 @@ Immediately before AEW10 will be a Stars in Queensland workshop on stellar astro
 - Michele Bannister (University of Canterbury, Aotearoa NZ)
 - Tom Evans-Soma (University of Newcastle)
 - Laura Driessen (University of Sydney)
+- Daniel Price (Monash University)
 
 ## LOC
 
